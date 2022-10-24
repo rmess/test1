@@ -6,3 +6,12 @@
         -supression des colonnes A,D,E,F,G
 -fichier de sortie: clean.csv
     - regroupement par organisation
+
+lien exo
+https://docs.google.com/spreadsheets/d/1ZFNds1t05Xn_gfj2G8lZhgpmwV7xU1qP4u00XShbLtg/edit?usp=sharing
+
+lien projet 
+https://docs.google.com/spreadsheets/d/1BnthgpieVAsnWahYs3PI1_dhVF5dIJfEtB5Z1pUi018/edit?usp=sharing
+  
+  
+  

@@ -1,3 +1,6 @@
+https://github.com/rmess/test1
+
+
 -lire le csv
 -extraire les données
 -parsing
@@ -12,6 +15,4 @@ https://docs.google.com/spreadsheets/d/1ZFNds1t05Xn_gfj2G8lZhgpmwV7xU1qP4u00XShb
 
 lien projet 
 https://docs.google.com/spreadsheets/d/1BnthgpieVAsnWahYs3PI1_dhVF5dIJfEtB5Z1pUi018/edit?usp=sharing
-  
-  
-  
+
